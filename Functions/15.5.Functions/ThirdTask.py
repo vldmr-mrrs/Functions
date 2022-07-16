@@ -19,3 +19,4 @@ res = sum(map(sum_squares, numbers))
 print(res)
 result = reduce(sum_squares_2, numbers, 0)
 print(result)
+#test
